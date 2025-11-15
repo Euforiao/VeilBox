@@ -160,8 +160,8 @@ All rights reserved © 2025 Euforiao.
 ---
 
 ## ✨ Author
-Created by **Euforiao / StreetMug / NAC – Anatomy of Silence**  
-Built in motion. Built in silence.
+Created by **Euforiao / StreetMug**
+Built in motion. 
 
 
 
